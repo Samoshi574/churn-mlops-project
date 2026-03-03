@@ -1,0 +1,6 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = s3://churn-mlops-project
+    access_key_id = YOUR_TOKEN
+    secret_access_key = YOUR_TOKEN
